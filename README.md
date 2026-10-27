@@ -15,6 +15,9 @@ weights. The method follows three stages:
 3. **Contrastive Evidence Refinement (CER)** compares the target map with the
    highest-scoring competing class and adds positive target-dominant evidence.
 
+## Method Overview
+![Overview of MediSCAM](framework.jpg)
+
 ## Repository layout
 
 ```text
